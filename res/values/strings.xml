@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">2014 FIFA World Cup</string>
+    <string name="action_settings">Settings</string>
+    <string name="official_website">\u0020Official Website\u0020</string>
+    <string name="official_twitter">\u0020Official Twitter\u0020</string>
+    <string name="official_game">\u0020Official Game\u0020</string>
+    <string name="content_description">Image</string>
+    <color name="red">#d1394a</color>
+    <color name="white">#ffffff</color>
+    
+
+</resources>
